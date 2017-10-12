@@ -4,6 +4,10 @@ Trabalho feito em Java para a matéria de Programação do segundo semestre da U
 
 Trata-se de um sistema de perguntas em Java.
 
-A versão utilizada do JDK utilizada é a 1.8.0.
+Ferramentas utilizadas:
 
-Utilizando o banco de dados DB4O na versão db4o-7.2.44.10827-osgi.jar baixado de https://sourceforge.net/projects/db4o/files/latest/download
+- Eclipse;
+
+- JDK  1.8.0;
+
+- Banco de dados DB4O na versão db4o-8.0.160.14822-core-java5.jar ( http://www.java2s.com/Code/Jar/d/Downloaddb4o8016014822corejava5jar.htm ).
