@@ -4,10 +4,7 @@ import com.db4o.ObjectSet;
 
 public class Principal {
 
-	; 
-
 	public static void main(String[] args) {
-		System.out.println("teste GIT");
 		com.db4o.ObjectContainer db = Db4oEmbedded.openFile(Db4oEmbedded.newConfiguration(), "banco"); 
 		Pergunta p = new Pergunta();
 		p.setPergunta("Qual é a cor do ceu durante o dia?", 1, "azul", "amarelo", "roxo", "vermelho", "verde");
